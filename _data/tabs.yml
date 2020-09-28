@@ -9,6 +9,7 @@
   name: Home
   icon: "fas fa-home"
   path: tabs
+  url: Home
 -
   name: "TA"
   icon: "fas fa-info"
