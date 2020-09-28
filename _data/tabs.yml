@@ -13,7 +13,7 @@
   name: "TA"
   icon: "fas fa-info"
   path: _layouts
-  url: about
+  url: TA
 #  name: Categories
 #  icon: "fas fa-stream"
 #  path: tabs
