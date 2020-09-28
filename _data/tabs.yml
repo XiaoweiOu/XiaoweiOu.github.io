@@ -8,6 +8,7 @@
 -
   name: Home
   icon: "fas fa-home"
+  path: tabs
 -
 #  name: Categories
 #  icon: "fas fa-stream"
