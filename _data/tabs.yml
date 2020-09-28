@@ -23,8 +23,8 @@
 #  path: tabs
 #  url: archives
 #  icon: "fas fa-archive"
-#-
-#  name: "About"
-#  icon: "fas fa-info"
-#  path: tabs
-#  url: about
+-
+  name: "TA"
+  icon: "fas fa-info"
+  path: _layouts
+  url: about
