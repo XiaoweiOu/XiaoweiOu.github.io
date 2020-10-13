@@ -10,10 +10,10 @@
   icon: "fas fa-home"
   url: Home
 -
-  name: "TA"
-  icon: "fas fa-info"
-  path: tabs
-  url: TA
+#  name: "TA"
+#  icon: "fas fa-info"
+#  path: tabs
+#  url: TA
 #-
 #  name: Categories
 #  icon: "fas fa-stream"
