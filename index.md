@@ -36,8 +36,7 @@ I am also intersted in appreciating musicals and taking photoes.
 
   In order to identify, or tag, boosted bosons it is paramount to understand the details of b-hadron identification and the internal structure of jets, or jet substructure, in such an environment. The approaches to the boosted boson tagging are various. This work focuses on the validation of double Xbb tagger using g → bb ̄ events. For this study the LHC proton-proton collision data recorded by the ATLAS experiment is used, corresponding to an integrated luminosity of 36 fb−1at 13 TeV centre-of-mass energy.
 
-  *A summary report of my work can be seen [here]().*
-  *Github repo can be seen [here]().*
+  *A summary report of my work can be seen [here](). Github repository can be seen [here]().*
 
 - **Measurement of the shape of YZ distribution in ppbar->Z/gamma*->mu+mu- events at sqrt(s)=1.96 TeV@D0, in Prof. Han Liang's group in USTC**
 
@@ -45,8 +44,7 @@ I am also intersted in appreciating musicals and taking photoes.
 
   The YZ is determined by the momentum of the Z boson coming from the difference between the energies of the initial state quarks, thus is one of the most sensitive observables to the PDF global fitting. At the Tevatron pp ̄ collisions, the single Z production is dominated by the valence quark contributions, while at the LHC pp collisions there always is sea quarks in the single Z production. Therefore, measurement of the YZ spectrum at the Tevatron is complementary to that at the LHC, providing information specifically on the valence quarks from protons.
 
-  *A summary report of my work can be seen [here]().*
-  *Github repo can be seen [here]().*
+  *A summary report of my work can be seen [here](). Github repository can be seen [here]().*
 
 ## Skills
   - programming skills: Familiar with C/C++, python, Fortran, Mathematica, SQL, LATEX, Linux, and other common software in particle physics like ROOT, Geant4 and PYTHIA.
