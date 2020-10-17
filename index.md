@@ -12,8 +12,11 @@ I am a undergraduate student in University of Science and Technology of China, m
 - 2017-present: Candidate for Physics major, School of the Gifted Young, USTC
 
 ## Grade
-- GPA: 3.91/4.30 Rank(all students majoring in Physics): 14/130
+- GPA: 3.91/4.30 | Rank(all students majoring in Physics): 14/130 | Clike [here]() to view full transcript
 - TOEFL iBT: 103 (Reading 30, Listening 26, Speaking 20, Writing 27)
 - GRE General: Verbal Reasoning 152, Quantative Reasoning 168, Analytical Writing 3.5
 
 ## Research experience
+- A detailed validation of techniques for identifying boosted topologies of hadronically decaying Higgs boson H → bb in g → bb events.
+sdfsdfsdfs
+- Measurement of the shape of Z rapidity distribution in ppbar->Z/gamma*->mu+mu- events at sqrt(s)=1.96 TeV
