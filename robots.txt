@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://XiaoweiOu.github.io/XiaoweiOu.github.io/sitemap.xml
