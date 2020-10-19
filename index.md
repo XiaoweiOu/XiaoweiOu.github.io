@@ -25,7 +25,7 @@ I am also intersted in appreciating musicals and taking photoes.
 
 ## Grade
 - GPA: **3.91/4.30**  Rank(all students majoring in Physics): **14/130**  
-  Clike [here]() to view full transcript.
+  Clike [here](https://nbviewer.jupyter.org/github/XiaoweiOu/XiaoweiOu.github.io/blob/master/docs/transcript.pdf) to view full transcript.
 - TOEFL iBT: 103 (Reading 30, Listening 26, Speaking 20, Writing 27)
 - GRE General: Verbal Reasoning 152, Quantative Reasoning 168, Analytical Writing 3.5
 
