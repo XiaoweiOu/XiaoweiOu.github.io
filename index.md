@@ -8,7 +8,7 @@ layout: page
 # About me
 I am a undergraduate student in University of Science and Technology of China, majoring in Physics. I will graduate in June 2021 and now I am seeking for a master/PhD position. While I focused on experimental particle physics in the past, especially collider physics such as D0@Tevatran and ATLAS@LHC, I am also intersted in studying other fields of physics (theoritical or computational are better) and software/hardware in graduate school. More infomation about my research experience is availabe below.
 
-In my spare time, intriguing novels are my prior entertainment. Reading shapes my life to a great extent--those books teach me how to live, how to behave and even how to be a human. 
+In my spare time, intriguing novels are my prior entertainment. Reading shapes my life to a great extent -- those books teach me how to live, how to behave and even how to be a human. 
 
 > 'I hope so,' replied the child. 'After I am dead, but not before. I know the doctor must be right, Oliver, because I dream so much of Heaven, and Angels, and kind faces that I never see when I am awake. Kiss me,' said the child, climbing up the low gate, and flinging his little arms round Oliver's neck. 'Good-bye, dear! God bless you!
 > 
