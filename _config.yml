@@ -22,7 +22,7 @@ url: 'https://XiaoweiOu.github.io'
 
 author: Xiaowei Ou                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/sample/oxw.jpg   # support internet resources
 
 github:
   username: XiaoweiOu               # change to your github username
@@ -32,7 +32,7 @@ twitter:
 
 social:
   name: Xiaowei Ou                  # it will shows as the copyright owner in Footer
-  email: ou_xiaowei@mail.ustc.edu.cn.com             # change to your email address
+  email: ou_xiaowei@mail.ustc.edu.cn             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # https://twitter.com/username      # change to your twitter homepage
