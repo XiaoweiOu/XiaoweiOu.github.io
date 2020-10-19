@@ -18,7 +18,7 @@ In my spare time, intriguing novels are my prior entertainment. Reading shapes m
 
 I am also intersted in appreciating musicals and taking photoes.
 
-*[Here]() is my CV in PDF format*
+*[Here](https://nbviewer.jupyter.org/github/XiaoweiOu/XiaoweiOu.github.io/blob/master/docs/CV.pdf) is my CV in PDF format*
 
 ## Education
 - 2017-present: Candidate for Physics major, School of the Gifted Young, USTC
@@ -30,19 +30,19 @@ I am also intersted in appreciating musicals and taking photoes.
 - GRE General: Verbal Reasoning 152, Quantative Reasoning 168, Analytical Writing 3.5
 
 ## Research experience
-- **A validation of performance of double Xbb tagger for identifying boosted topologies of hadronically decaying Higgs boson H → bb using g → bb events@ATLAS, in Prof. Shu Li's group in TDLI/SJTU**
-
-  The increase of the LHC centre-of-mass energy to 13 TeV greatly extends the sensitivity of the ATLAS experiment to heavy new particles. In a significant number of new physics scenarios, these heavy new particles may have decay chains including the Standard Model(SM) Higgs boson. The large mass of these resonances implies that a large momentum will be imparted to the Higgs boson, causing its decay products to be collimated. The decay of the Higgs boson to the bb ̄ pair has the largest branching fraction within the SM, and thus is a vital decay mode to use when searching for these resonances, as well as for the SM Higgs boson properties measurements. The signature of the boosted Higgs boson decaying to the bb ̄ pair is a high momentum “Higgs-jet” containing two b-hadrons.
-
-  In order to identify, or tag, boosted bosons it is paramount to understand the details of b-hadron identification and the internal structure of jets, or jet substructure, in such an environment. The approaches to the boosted boson tagging are various. This work focuses on the validation of double Xbb tagger using g → bb ̄ events. For this study the LHC proton-proton collision data recorded by the ATLAS experiment is used, corresponding to an integrated luminosity of 36 fb−1at 13 TeV centre-of-mass energy.
-
-  *A summary report of my work can be seen [here](). Github repository can be seen [here]().*
-
 - **Measurement of the shape of YZ distribution in ppbar->Z/gamma*->mu+mu- events at sqrt(s)=1.96 TeV@D0, in Prof. Han Liang's group in USTC**
 
   The parton distribution functions (PDFs) is widely used at hadron collider experiments to describe the fraction of the quark energy to the hadron energy. In many precision measurements, it contributes the leading uncertainty. In particular, the weak mixing angle measurement at the CERN Large Hadron Collider (LHC) will be dominated by the PDF uncertainty. In its 13 TeV data analyze, the 9 uncertainty on the weak mixing angle from current PDFs such as CT10, CT14, NNPDF3.0 and MMHT is larger than 0.00020, while the statistical uncertainty will be reduced to be smaller than 0.00010. It is important to reduce the PDF uncertainty by introducing more related experimental measurements to improve the PDF global fitting.
 
   The YZ is determined by the momentum of the Z boson coming from the difference between the energies of the initial state quarks, thus is one of the most sensitive observables to the PDF global fitting. At the Tevatron pp ̄ collisions, the single Z production is dominated by the valence quark contributions, while at the LHC pp collisions there always is sea quarks in the single Z production. Therefore, measurement of the YZ spectrum at the Tevatron is complementary to that at the LHC, providing information specifically on the valence quarks from protons.
+
+  *A summary report of my work can be seen [here](https://nbviewer.jupyter.org/github/XiaoweiOu/XiaoweiOu.github.io/blob/master/docs/ZY.pdf). Github repository can be seen [here]().*
+
+- **A validation of performance of double Xbb tagger for identifying boosted topologies of hadronically decaying Higgs boson H → bb using g → bb events@ATLAS, in Prof. Shu Li's group in TDLI/SJTU**
+
+  The increase of the LHC centre-of-mass energy to 13 TeV greatly extends the sensitivity of the ATLAS experiment to heavy new particles. In a significant number of new physics scenarios, these heavy new particles may have decay chains including the Standard Model(SM) Higgs boson. The large mass of these resonances implies that a large momentum will be imparted to the Higgs boson, causing its decay products to be collimated. The decay of the Higgs boson to the bb ̄ pair has the largest branching fraction within the SM, and thus is a vital decay mode to use when searching for these resonances, as well as for the SM Higgs boson properties measurements. The signature of the boosted Higgs boson decaying to the bb ̄ pair is a high momentum “Higgs-jet” containing two b-hadrons.
+
+  In order to identify, or tag, boosted bosons it is paramount to understand the details of b-hadron identification and the internal structure of jets, or jet substructure, in such an environment. The approaches to the boosted boson tagging are various. This work focuses on the validation of double Xbb tagger using g → bb ̄ events. For this study the LHC proton-proton collision data recorded by the ATLAS experiment is used, corresponding to an integrated luminosity of 36 fb−1at 13 TeV centre-of-mass energy.
 
   *A summary report of my work can be seen [here](). Github repository can be seen [here]().*
 
