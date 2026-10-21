@@ -42,10 +42,11 @@ More on the [Research]({{ '/tabs/research/' | relative_url }}) and
 
 ## Teaching & Service
 
-- Teaching Fellow, Yale: PHYS 4500 Thermodynamics & Statistical Mechanics (Fall 2026);
-  PHYS 5100 Quantum Mechanics II (Spring 2026); PHYS 1650/1660 General Physics Laboratory (2023 – 2025)
+- Teaching Fellow, PHYS 4500 Thermodynamics & Statistical Mechanics, Yale (Fall 2026)
+- Teaching Fellow, PHYS 5100 Quantum Mechanics II, Yale (Spring 2026)
+- Teaching Fellow, PHYS 1650/1660 General Physics Laboratory, Yale (2023 – 2025)
 - Teaching Fellow, Mechanics, USTC (Fall 2020)
-- Co-organizer, *Building AI Agents from Scratch* workshop series, Yale (Fall 2026);
-  *Building LLMs from Scratch* workshop series, WTI Center for Neurocomputation and Machine Intelligence, Yale (Spring 2026)
-- Co-organizer, Yale Physics Professional Development Organization (2024 – now);
-  Committee Member, Yale Physics Graduate Student Advisory Committee (2022 – 2023)
+- Co-organizer, *Building AI Agents from Scratch* workshop series, Yale (Fall 2026)
+- Co-organizer, *Building LLMs from Scratch* workshop series, WTI Center for Neurocomputation and Machine Intelligence, Yale (Spring 2026)
+- Co-organizer, Yale Physics Professional Development Organization (2024 – now)
+- Committee Member, Yale Physics Graduate Student Advisory Committee (2022 – 2023)
